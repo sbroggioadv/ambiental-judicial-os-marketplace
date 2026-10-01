@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ambiental-judicial-os-marketplace",
+  "description": "Apoio documental ao advogado de qualquer polo em ACP ambiental, recursos e anulatória judicial do auto, com revisão humana.",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "ambiental-judicial-os",
+      "source": "./ambiental-judicial-os",
+      "description": "Apoio documental ao advogado de qualquer polo em ACP ambiental, recursos e anulatória judicial do auto, com revisão humana.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    }
+  ]
+}

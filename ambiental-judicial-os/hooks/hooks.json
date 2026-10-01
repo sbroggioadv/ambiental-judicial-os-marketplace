@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'ambiental-judicial-os carregado — estrutura inicial; confira o corpus local e faça revisão humana'",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

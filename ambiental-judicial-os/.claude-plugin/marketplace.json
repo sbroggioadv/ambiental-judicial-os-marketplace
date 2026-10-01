@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ambiental-judicial-os",
+  "description": "Apoio documental ao advogado de autor, associação, atingido ou réu em matéria civil ambiental, com fontes locais e revisão humana.",
+  "owner": {
+    "name": "Luis Sbroggio",
+    "email": "luis@sbroggio.io"
+  },
+  "plugins": [
+    {
+      "name": "ambiental-judicial-os",
+      "source": "./",
+      "description": "Apoio documental ao advogado de autor, associação, atingido ou réu em matéria civil ambiental, com fontes locais e revisão humana.",
+      "author": {
+        "name": "Luis Sbroggio",
+        "email": "luis@sbroggio.io"
+      },
+      "version": "0.1.0"
+    }
+  ]
+}
