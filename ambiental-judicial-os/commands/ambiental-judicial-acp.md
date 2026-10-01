@@ -5,7 +5,7 @@ argument-hint: "[polo, fase, objetivo e documentos]"
 
 # /ambiental-judicial-acp
 
-Usar $ARGUMENTS para identificar cliente, polo, via/fase, objetivo, autos, atos de ciência e documentos. Não presumir que a mesma peça represente ambos os lados nem aproveitar acervo do adversário. Executar `triagem-ambiental-judicial` quando disponível para fronteira: ACP ajuizada/pedido judicial aqui; anulatória específica do auto tem rota própria; TAC/termo APP/RL/PRA rural sem ação segue a especialidade agrária; defesa/recurso administrativos, CAR/PRA e penal fora. Se triagem não estiver disponível, declarar gate ausente e limitar a saída a pendências.
+Usar $ARGUMENTS para identificar cliente, polo, via/fase, objetivo, autos, atos de ciência e documentos. Não presumir que a mesma peça represente ambos os lados nem aproveitar acervo do adversário. Executar `triagem-ambiental-judicial` quando disponível para fronteira: ACP ajuizada/pedido judicial aqui; anulatória específica do auto tem rota própria; imóvel rural começa no `agrario-adv-os`; TAC com MP/inquérito/ACP segue a este plugin e TAC só com órgão, sem MP e sem ação, ao `ambiental-extrajudicial-os`; defesa/recurso administrativos, CAR/PRA e penal fora. Se triagem não estiver disponível, declarar gate ausente e limitar a saída a pendências.
 
 Executar `legitimidade-acp-ambiental` e `competencia-acp-ambiental` com o corpus literal em `context/`. Só então, conforme **polo escolhido e confirmado**, executar `inicial-acp-ambiental` para autor coletivo habilitado ou `contestacao-acp-ambiental` para réu. Atingido com pretensão individual recebe mapa de via, sem inicial coletiva automática. Não chamar duas peças como saída única.
 

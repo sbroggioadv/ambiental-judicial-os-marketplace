@@ -1,13 +1,13 @@
 ---
 name: tac-extrajudicial-ambiental
-description: "Esta skill deve ser usada pelo advogado de qualquer lado cabível para auditar ou negociar TAC ambiental extrajudicial fora da fronteira rural especializada."
+description: "Esta skill deve ser usada pelo advogado de qualquer lado cabível para auditar ou negociar TAC ambiental extrajudicial com MP ou em inquérito civil, após a triagem agrária inicial quando houver imóvel rural."
 ---
 
 # TAC extrajudicial ambiental
 
 ## Entrada e fronteira
 
-Identificar representado, interesse, órgão tomador, procedimento, instrumento recebido ou proposta, poderes de representação, objeto ambiental, laudo, obrigações, valores, multas e estado das assinaturas. Aplicar a triagem: TAC/termo extrajudicial sobre APP/RL/PRA rural sem ação e inquérito civil com esse TAC proposto seguem à fronteira agrária; investigação voltada à ACP ou objeto não rural permanece aqui. Se houver ação e proposta de homologação, examinar a skill 21. Associação ou atingido pode participar quando couber, mas não ganha poder de tomador público por legitimidade à ACP.
+Identificar representado, interesse, órgão tomador, procedimento, instrumento recebido ou proposta, poderes de representação, objeto ambiental, laudo, obrigações, valores, multas e estado das assinaturas. Aplicar a triagem antes de qualquer minuta: imóvel rural começa no `agrario-adv-os`; MP como tomador/parte, inquérito civil ou ACP mantém o TAC no `ambiental-judicial-os` após essa primeira triagem. TAC apenas com órgão ambiental, sem MP e sem ação, segue ao `ambiental-extrajudicial-os`, mesmo em imóvel rural após a triagem agrária. Se houver ação, usar `tac-judicial-ambiental`. Faltando prova do tomador, inquérito, ação ou ruralidade, `PENDENTE DE ENQUADRAMENTO` e nenhuma minuta. Associação ou atingido pode participar quando couber, mas não ganha poder de tomador público por legitimidade à ACP.
 
 ## Procedimento
 

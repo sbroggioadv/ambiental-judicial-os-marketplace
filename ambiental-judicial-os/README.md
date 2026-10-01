@@ -4,6 +4,18 @@
 
 Plugin para o **advogado de qualquer dos polos**, conforme legitimidade, representação e via comprovadas: réu em ação civil pública ambiental; autor, associação ou atingido. O produto contém manifestos, licença, hook, corpus local, **29 skills e 19 comandos**.
 
+## Qual plugin usar — confira antes de iniciar
+
+| Situação | Primeiro destino |
+| --- | --- |
+| Imóvel **rural**, inclusive com auto de infração | `agrario-adv-os` primeiro; se houver **ação anulatória do auto rural**, a peça judicial segue ao `ambiental-judicial-os` após a triagem agrária. |
+| TAC com **Ministério Público**, **inquérito civil** ou **ACP** | `ambiental-judicial-os`, inclusive quando o imóvel for rural, após a triagem inicial no `agrario-adv-os`. |
+| TAC apenas com **órgão ambiental**, sem MP e sem ação | `ambiental-extrajudicial-os`, após a triagem inicial no `agrario-adv-os` se o imóvel for rural. |
+| Anulatória de auto **não rural**, com defesa administrativa feita no `ambiental-extrajudicial-os` e **sem ação conexa** | `ambiental-extrajudicial-os` como continuidade. |
+| Demais anulatórias judiciais de auto | `ambiental-judicial-os`; para imóvel rural, começar pela triagem do `agrario-adv-os`. |
+
+Se faltar dado sobre imóvel, tomador do TAC, inquérito, ACP, defesa prévia ou ação conexa, registrar `PENDENTE DE ENQUADRAMENTO` e pedir os documentos antes de produzir peça. O encaminhamento não pressupõe outro plugin instalado.
+
 ## Estado da entrega
 
 As portas `/ambiental-judicial-install` e `/ambiental-judicial-master` estão presentes. As skills orientam a triagem, a seleção de rota e a revisão R1→R4; sua presença e os gates estruturais não comprovam a execução de um caso real nem dispensam conferência jurídica humana.

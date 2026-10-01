@@ -7,7 +7,7 @@ description: "Esta skill deve ser usada pelo advogado do investigado para organi
 
 ## Entrada e rota
 
-Exigir notificação integral, órgão/expediente, cliente e posição, objeto da investigação, requisição concreta, data e meio de ciência, documentos acessíveis, restrições de acesso fundamentadas, objetivo da defesa e desfecho proposto. Inquérito cujo desfecho proposto é TAC/termo extrajudicial de APP/RL/PRA rural sem ação segue a especialidade agrária; investigação visando ACP ou objeto não rural fica aqui. Se os objetos forem mistos, separar os subpedidos e não supor plugin irmão instalado nem oferecer venda cruzada. Defesa/recurso administrativo de auto e matéria penal ficam fora.
+Exigir notificação integral, órgão/expediente, cliente e posição, objeto da investigação, requisição concreta, data e meio de ciência, documentos acessíveis, restrições de acesso fundamentadas, objetivo da defesa e desfecho proposto. Imóvel rural começa sempre no `agrario-adv-os`; o inquérito civil, inclusive com TAC proposto para APP/RL/PRA rural, segue ao `ambiental-judicial-os` após essa triagem. TAC só com órgão ambiental, sem MP e sem ação, segue ao `ambiental-extrajudicial-os`. Se os objetos forem mistos, separar os subpedidos e não supor plugin irmão instalado nem oferecer venda cruzada. Defesa/recurso administrativo de auto e matéria penal ficam fora.
 
 Ler `context/lei-7347-acp-integral.md`, arts. 8º §§1º–2º e 9º §§1º–2º, e `context/cf-ambiental.md`, art. 129 III. Citar texto literal, arquivo, artigo, trecho e versão/captura. A norma e o ato do órgão sobre acesso, sigilo e prazos adicionais estão 🟡.
 

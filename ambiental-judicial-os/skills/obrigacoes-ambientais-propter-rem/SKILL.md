@@ -7,7 +7,7 @@ description: "Esta skill deve ser usada pelo advogado de autor habilitado ou ré
 
 ## Entrada e fronteira
 
-Receber cliente/polo, via/fase, imóvel e objeto exato (APP, Reserva Legal ou outro), matrículas e títulos, cadeia de domínio/posse e datas, atos de supressão e aquisição, documentos técnicos, pedidos e decisão existente. Confirmar ACP ajuizada ou pedido judicial. TAC/termo extrajudicial de APP/RL/PRA rural sem ação e inquérito civil com esse TAC proposto devem ser encaminhados ao recorte agrário, sem pressupor plugin irmão instalado; não produzir a peça duplicada. CAR/PRA, metragem ou licenciamento agropecuário especializados ficam fora.
+Receber cliente/polo, via/fase, imóvel e objeto exato (APP, Reserva Legal ou outro), matrículas e títulos, cadeia de domínio/posse e datas, atos de supressão e aquisição, documentos técnicos, pedidos e decisão existente. Confirmar ACP ajuizada ou pedido judicial. Imóvel rural começa no `agrario-adv-os`; inquérito civil ou TAC com MP segue a este plugin após essa triagem. TAC só com órgão ambiental, sem MP e sem ação, segue ao `ambiental-extrajudicial-os`. Não pressupor plugin irmão instalado nem duplicar peça. CAR/PRA, metragem ou licenciamento agropecuário especializados ficam fora.
 
 ## Procedimento
 

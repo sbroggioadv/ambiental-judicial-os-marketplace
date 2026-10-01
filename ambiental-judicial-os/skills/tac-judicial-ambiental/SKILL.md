@@ -9,6 +9,10 @@ description: "Esta skill deve ser usada pelo advogado de qualquer polo da ACP am
 
 Receber processo, polo, partes e poderes, texto integral da proposta/termo, documentos técnicos, obrigações, pedido de homologação e decisão real, se houver. Identificar se é negociação no curso da ação, termo já assinado, pedido pendente ou acordo efetivamente homologado. A existência da ação não prova assinatura nem homologação; não chamar toda proposta de título judicial.
 
+## Rota obrigatória
+
+Aplicar `triagem-ambiental-judicial`: imóvel rural começa no `agrario-adv-os`. TAC com MP, inquérito civil ou ACP segue neste plugin; se já houver ação, esta skill trata o ajuste judicial. TAC só com órgão ambiental, sem MP e sem ação, segue ao `ambiental-extrajudicial-os`. Na falta desses dados, `PENDENTE DE ENQUADRAMENTO` antes da minuta.
+
 ## Procedimento
 
 1. Montar tabela por cláusula: sujeito/poder, objeto, conduta e modo, prazo, prova de cumprimento, cominação, destinação, interesse protegido e objeção. Separar reparação específica, compensação e indenização para evitar duplicidade. Se a prova técnica faltar, pedir avaliação externa; não gerar medidas ou valores fictícios.

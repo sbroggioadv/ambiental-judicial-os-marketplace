@@ -5,7 +5,7 @@ argument-hint: "[pedido, polo, via/fase e documentos]"
 
 # /ambiental-judicial-responsabilidade
 
-Usar $ARGUMENTS para identificar cliente/polo, via/fase, pedido, fatos, sujeitos, períodos e documentos. Se esses dados faltarem, pedir os mínimos necessários e entregar matriz de pendências. Executar `triagem-ambiental-judicial` quando disponível; ACP ajuizada ou pedido judicial civil entra no plugin. TAC/termo extrajudicial APP/RL/PRA rural sem ação e inquérito com tal TAC proposto seguem ao recorte agrário, sem duplicar peça. Defesa/recurso administrativo e penal ficam fora.
+Usar $ARGUMENTS para identificar cliente/polo, via/fase, pedido, fatos, sujeitos, períodos e documentos. Se esses dados faltarem, pedir os mínimos necessários e entregar matriz de pendências. Executar `triagem-ambiental-judicial` quando disponível; ACP ajuizada ou pedido judicial civil entra no plugin. imóvel rural começa no `agrario-adv-os`; inquérito ou TAC com MP segue a este plugin e TAC só com órgão, sem MP e sem ação, ao `ambiental-extrajudicial-os`, sem duplicar peça. Defesa/recurso administrativo e penal ficam fora.
 
 Selecionar apenas as skills C2 pertinentes: `responsabilidade-civil-ambiental-objetiva` (imputação civil), `obrigacoes-ambientais-propter-rem` (dever real de imóvel com título e cronologia), `nexo-causal-ambiental` (hipóteses causais e contraprova), `solidariedade-ambiental` (pluralidade de sujeitos e cabimento processual). Quando houver questão de encargo probatório, chamar também `onus-e-inversao-prova-ambiental`. Separar dever real, dano civil, sanção administrativa e causalidade; nenhum deles prova automaticamente os outros. Para o réu, incluir argumento contrário e prova individual; para o autor habilitado, vincular cada pedido a sujeito e documento.
 
