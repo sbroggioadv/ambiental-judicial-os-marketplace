@@ -4,7 +4,7 @@
   "description": "Apoio documental ao advogado de autor, associação, atingido ou réu em matéria civil ambiental, com fontes locais e revisão humana.",
   "owner": {
     "name": "Luis Sbroggio",
-    "email": "luis@sbroggio.io"
+    "email": "suporte@iapx.pro"
   },
   "plugins": [
     {
@@ -13,9 +13,9 @@
       "description": "Apoio documental ao advogado de autor, associação, atingido ou réu em matéria civil ambiental, com fontes locais e revisão humana.",
       "author": {
         "name": "Luis Sbroggio",
-        "email": "luis@sbroggio.io"
+        "email": "suporte@iapx.pro"
       },
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }

@@ -28,6 +28,6 @@ Receber cliente/polo, via/fase, inicial ou decisão se existente, pedidos, pesso
 
 Entregar matriz individual, hipótese conjunta separada, análise de cabimento processual, fundamento com arquivo/trecho/versão, argumento adversário, lacunas e providência. Pedido processual ou de responsabilidade sem fonte crítica/prova fica `PENDENTE DE FONTE` ou `PENDENTE DE PROVA`; eventual minuta é `MINUTA PARA REVISÃO HUMANA`. Não afirmar solidariedade ou legitimidade de terceiro em abstrato.
 
-Armazenar documentação por cliente/matéria em pasta privada externa ao source; sem envio a serviços externos sem autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** o fluxo instrucional não é aprovação automática.
+Armazenar documentação por cliente/matéria em pasta privada externa ao source; sem envio a serviços externos sem autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** o fluxo instrucional não é aprovação automática.
 
 Ao final, também para saída bloqueada ou chamada direta, executar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4), corrigir achados e repetir a cadeia. Dependência indisponível: registrar revisão não realizada e entregar só matriz/pendências, sem liberar minuta.

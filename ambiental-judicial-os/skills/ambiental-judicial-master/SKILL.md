@@ -13,7 +13,7 @@ Executar `triagem-ambiental-judicial` e registrar fronteira e pendências. Encam
 
 ## Contrato de trabalho
 
-Ler norma somente no `context/` local, conferir dispositivo literal e registrar arquivo, trecho, versão e limite. Artigo sem texto, atualização/alcance não conferidos e remissão não capturada recebem 🟡; tema/súmula só número e 🟡, sem tese. Usar documentos recebidos com autorização; fato alegado não é prova. Não inventar processo, decisão, laudo, prazo final, valor ou ato externo. Suporte: luis@sbroggio.io.
+Ler norma somente no `context/` local, conferir dispositivo literal e registrar arquivo, trecho, versão e limite. Artigo sem texto, atualização/alcance não conferidos e remissão não capturada recebem 🟡; tema/súmula só número e 🟡, sem tese. Usar documentos recebidos com autorização; fato alegado não é prova. Não inventar processo, decisão, laudo, prazo final, valor ou ato externo. Suporte: suporte@iapx.pro.
 
 Cada entrega identifica cliente/polo/destinatário, via/fase/ato e quadro `alegação → prova/arquivo/trecho → contraprova/lacuna → dispositivo/versão/localizador → situação`. Separar fato e inferência, pedidos e limites, argumento adversário e cálculo com dados/fórmula quando cabível. A minuta, se permitida, traz `MINUTA PARA REVISÃO HUMANA`; sem base crítica, entregar pendências e próxima providência.
 

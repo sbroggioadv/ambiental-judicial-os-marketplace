@@ -20,4 +20,4 @@ Receba título judicial integral e certidão de trânsito/estado recursal, parte
 
 Entregue matriz `capítulo → obrigação → prova/contraprova → ato e marco → dispositivo/arquivo/trecho → cálculo → lacuna`, com polo e via explícitos; minuta apenas com título, exigibilidade, fontes críticas e fatos suficientes, identificada para revisão humana. Guarde caso em pasta privada externa por cliente/matéria.
 
-Ao final, inclusive em bloqueio, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial`, R1 fatos/título, R2 alcance/fonte, R3 marcos/cálculos, R4 via/polo/sigilo. Controle ausente deixa revisão pendente e impede peça liberada. Guidance only. Suporte: luis@sbroggio.io.
+Ao final, inclusive em bloqueio, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial`, R1 fatos/título, R2 alcance/fonte, R3 marcos/cálculos, R4 via/polo/sigilo. Controle ausente deixa revisão pendente e impede peça liberada. Guidance only. Suporte: suporte@iapx.pro.

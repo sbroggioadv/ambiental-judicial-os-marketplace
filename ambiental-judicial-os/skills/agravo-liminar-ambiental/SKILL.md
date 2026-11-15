@@ -19,4 +19,4 @@ Leia `context/lei-7347-acp-integral.md`, arts. 12 caput/§1º e 14; `context/cpc
 
 ## Revisão
 
-Dados só em pasta privada externa por cliente/matéria. Ao final, inclusive bloqueio, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial`, R1 decisão/prova, R2 cabimento/fonte, R3 ciência/calendário, R4 posição/via/sigilo. Controle indisponível impede peça liberada. Guidance only. Suporte: luis@sbroggio.io.
+Dados só em pasta privada externa por cliente/matéria. Ao final, inclusive bloqueio, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial`, R1 decisão/prova, R2 cabimento/fonte, R3 ciência/calendário, R4 posição/via/sigilo. Controle indisponível impede peça liberada. Guidance only. Suporte: suporte@iapx.pro.

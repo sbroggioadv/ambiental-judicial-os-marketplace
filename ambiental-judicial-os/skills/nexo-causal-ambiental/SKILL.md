@@ -27,6 +27,6 @@ Identificar representado/polo, via/fase e pedido. Receber evento ou risco descri
 
 Entregar quadro `hipótese causal → dado/arquivo/trecho → explicação concorrente → teste/quesito → dispositivo/versão/localizador → confiança e lacuna`, com argumento adversário e providência de prova. Marcar `PENDENTE DE PROVA` ou `PENDENTE DE FONTE` quando elo crítico faltar; eventual minuta é `MINUTA PARA REVISÃO HUMANA`. Não declarar responsabilidade final, decisão judicial ou nexo técnico demonstrado sem suporte suficiente.
 
-Documentos de cliente ficam em pasta privada por matéria, fora do source; serviço externo só com autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** revisão por instrução, sem certificação automática.
+Documentos de cliente ficam em pasta privada por matéria, fora do source; serviço externo só com autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** revisão por instrução, sem certificação automática.
 
 Ao final, mesmo em bloqueio ou invocação direta, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4). Corrigir achados e repetir a cadeia. Se algum componente estiver indisponível, registrar revisão não realizada e entregar só mapa e pendências, sem liberar minuta.

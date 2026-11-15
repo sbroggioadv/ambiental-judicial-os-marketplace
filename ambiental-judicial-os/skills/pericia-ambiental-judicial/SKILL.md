@@ -20,6 +20,6 @@ Identificar representado, polo, processo, objeto controvertido, decisão de prod
 
 Entregar quesitos ou crítica documental ao laudo com fundamento e contraprova, pedido de esclarecimento apenas se houver suporte, responsável técnico externo, documentos faltantes e próxima providência. Para ambos os polos, explicitar a tese oposta e a incerteza que a prova não resolveu. Registrar estado `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE` ou `BLOQUEADO`.
 
-Ler cada fundamento no `context/` do próprio plugin, verificar versão e localizador; artigo sem texto permanece 🟡. Guardar documentos de cliente por matéria em pasta privada externa ao source. Sem envio externo sem autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** este texto orienta a execução; não é validação automática nem substitui perito ou advogado.
+Ler cada fundamento no `context/` do próprio plugin, verificar versão e localizador; artigo sem texto permanece 🟡. Guardar documentos de cliente por matéria em pasta privada externa ao source. Sem envio externo sem autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** este texto orienta a execução; não é validação automática nem substitui perito ou advogado.
 
 Ao final, inclusive em saída bloqueada ou chamada direta, chamar nesta ordem `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4). Registrar achados, corrigir e repetir a cadeia; se alguma dependência faltar, informar revisão não realizada e não liberar minuta dependente.

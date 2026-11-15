@@ -21,4 +21,4 @@ O corpus `context/` ainda **não contém âncora material suficiente** para afir
 
 Entregue posições possíveis do autor e réu separadas, evidências faltantes e próxima providência, sem prognóstico. Use dados somente na pasta privada externa por cliente/matéria, nunca no source ou serviço externo sem autorização.
 
-Ao final, inclusive se bloquear, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial`, R1 fatos/provas, R2 fontes/alcance, R3 marcos, R4 via/polo/sigilo. Controle indisponível significa revisão pendente, sem liberar peça. Guidance only; não é enforcement por hook. Suporte: luis@sbroggio.io.
+Ao final, inclusive se bloquear, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial`, R1 fatos/provas, R2 fontes/alcance, R3 marcos, R4 via/polo/sigilo. Controle indisponível significa revisão pendente, sem liberar peça. Guidance only; não é enforcement por hook. Suporte: suporte@iapx.pro.

@@ -1,6 +1,6 @@
 # Ambiental Judicial OS
 
-`ambiental-judicial-os` · versão 0.1.0 · Luis Sbroggio.
+`ambiental-judicial-os` · versão 0.1.1 · Luis Sbroggio.
 
 Plugin para o **advogado de qualquer dos polos**, conforme legitimidade, representação e via comprovadas: réu em ação civil pública ambiental; autor, associação ou atingido. O produto contém manifestos, licença, hook, corpus local, **29 skills e 19 comandos**.
 
@@ -36,4 +36,4 @@ As skills de mérito instruem o uso dos três controles locais: anti-alucinaçã
 
 Casos, documentos e dados de clientes devem ficar em pasta privada externa, separados por cliente e matéria, fora do source e do pacote distribuível. O plugin não pressupõe conector, pesquisa externa ou plugin irmão instalado.
 
-Suporte: **luis@sbroggio.io**. Uso sujeito à [LICENCA](LICENCA).
+Suporte: **suporte@iapx.pro**. Uso sujeito à [LICENCA](LICENCA).

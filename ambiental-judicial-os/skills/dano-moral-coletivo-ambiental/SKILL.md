@@ -19,6 +19,6 @@ Identificar representado, legitimidade e polo, interesse coletivo alegado, fatos
 
 Entregar análise, pedido ou impugnação apenas no alcance comprovado; quadro de dano coletivo versus individual/material, objeção adversária, fundamentos com localizador e estado `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE` ou `BLOQUEADO`. Registrar expressamente cada conclusão condicionada à jurisprudência 🟡.
 
-Norma somente após leitura literal e versão conferida em `context/`; número de súmula/tema não é tese. Dados privados por cliente/matéria fora do source, sem envio externo sem autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** não há reconhecimento judicial automático do dano.
+Norma somente após leitura literal e versão conferida em `context/`; número de súmula/tema não é tese. Dados privados por cliente/matéria fora do source, sem envio externo sem autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** não há reconhecimento judicial automático do dano.
 
 Ao final, inclusive em saída bloqueada ou chamada direta, chamar nesta ordem `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4). Registrar achados, corrigir e repetir a cadeia; dependência indisponível impede liberar minuta dependente.

@@ -20,6 +20,6 @@ Identificar representado, interesse, órgão tomador, procedimento, instrumento 
 
 Entregar auditoria ou minuta/contraproposta identificada para revisão humana, matriz de obrigações, poderes, documentos, divergências e estado `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `PENDENTE DE ENQUADRAMENTO` ou `BLOQUEADO`. Não afirmar celebração, homologação, quitação ou eficácia penal.
 
-Somente texto verbatim e versão conferida em `context/` fundamentam norma; artigo sem texto = 🟡. Isolar documentos por cliente/matéria em pasta privada fora do source; não enviá-los a serviços externos sem autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** o plugin não toma, assina ou fiscaliza TAC.
+Somente texto verbatim e versão conferida em `context/` fundamentam norma; artigo sem texto = 🟡. Isolar documentos por cliente/matéria em pasta privada fora do source; não enviá-los a serviços externos sem autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** o plugin não toma, assina ou fiscaliza TAC.
 
 Ao final, inclusive em saída bloqueada ou chamada direta, chamar nesta ordem `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4). Registrar achados, corrigir e repetir a cadeia; dependência indisponível impede liberar minuta dependente.

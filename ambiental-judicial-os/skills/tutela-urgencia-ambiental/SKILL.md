@@ -20,6 +20,6 @@ Receber representado e polo, via, risco concreto, cronologia, prova e contraprov
 
 Entregar pedido ou resposta com quadro `fato → prova → contradita → artigo/localizador → pedido/limite`, cenário contrário e pendências. Se faltar prova do risco, cabimento ou ato essencial, entregar apenas mapa de pendências. Estado explícito: `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `PENDENTE DE ENQUADRAMENTO` ou `BLOQUEADO`.
 
-Norma só com texto verbatim em `context/` e versão conferida; referência sem texto = 🟡. Dados por cliente/matéria em pasta privada externa; nenhum envio externo sem autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** não há concessão, protocolo ou fiscalização automática.
+Norma só com texto verbatim em `context/` e versão conferida; referência sem texto = 🟡. Dados por cliente/matéria em pasta privada externa; nenhum envio externo sem autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** não há concessão, protocolo ou fiscalização automática.
 
 Ao final, inclusive em saída bloqueada ou chamada direta, chamar nesta ordem `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4). Registrar achados, corrigir e repetir a cadeia; dependência indisponível impede liberar minuta dependente.

@@ -20,6 +20,6 @@ Identificar representado/polo, pretensão, obrigação proposta ou imposta, tít
 
 Entregar pedido/contraproposta, matriz por obrigação e memória de cálculo reexecutável ou lacuna calculatória. Explicitar objeção do outro polo, prova necessária e estado `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE` ou `BLOQUEADO`.
 
-Fundamentar só após leitura verbatim e conferência de versão em `context/`; artigo faltante = 🟡. Documentos privados por cliente/matéria fora do source; serviço externo só com autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** não há decisão judicial ou cobrança automática.
+Fundamentar só após leitura verbatim e conferência de versão em `context/`; artigo faltante = 🟡. Documentos privados por cliente/matéria fora do source; serviço externo só com autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** não há decisão judicial ou cobrança automática.
 
 Ao final, inclusive em saída bloqueada ou chamada direta, chamar nesta ordem `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4). Registrar achados, corrigir e repetir a cadeia; dependência indisponível impede liberar minuta dependente.

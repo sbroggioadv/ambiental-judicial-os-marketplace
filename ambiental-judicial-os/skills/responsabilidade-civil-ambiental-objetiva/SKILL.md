@@ -27,6 +27,6 @@ Identificar cliente, polo, via, fase, pedido e pretensão precisa. Receber descr
 
 Entregar quadro individual `alegação → arquivo/trecho → contraprova/lacuna → dispositivo/versão/localizador → situação`, conclusão limitada à prova e argumento adversário. Indicar polo, via/fase, pendências e próxima providência. Sem prova crítica, usar `PENDENTE DE PROVA` ou `PENDENTE DE FONTE`; minuta, se cabível, fica `MINUTA PARA REVISÃO HUMANA`. Não afirmar dano, nexo, êxito ou ato judicial não comprovado.
 
-Guardar documentos apenas na pasta privada da matéria, fora do source; não enviar dados de clientes a serviço externo sem autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** estas instruções dependem de execução pelo agente, não constituem aprovação jurídica automática.
+Guardar documentos apenas na pasta privada da matéria, fora do source; não enviar dados de clientes a serviço externo sem autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** estas instruções dependem de execução pelo agente, não constituem aprovação jurídica automática.
 
 Ao final, inclusive em saída bloqueada ou invocação direta, chamar nesta ordem `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4). Incorporar achados e repetir a cadeia na versão corrigida. Se a dependência estiver indisponível, registrar a revisão não realizada e entregar só matriz e pendências, sem liberar minuta.

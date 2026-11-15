@@ -20,6 +20,6 @@ Identificar representado/polo, dano alegado, local/período, sujeitos, laudos e 
 
 Entregar quadro de reparação e pedido/contraproposta com fundamento local, rubricas não sobrepostas, prova, fórmula/dados de valor quando houver e lacunas técnicas. Estado `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE` ou `BLOQUEADO`. Não certificar restauração nem cumprimento por suposição.
 
-Usar só texto verbatim em `context/`, com versão/localizador conferidos; artigo não capturado = 🟡. Documentos privados por cliente/matéria fora do source; serviço externo somente com autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** a skill não substitui laudo/perito ou decisão judicial.
+Usar só texto verbatim em `context/`, com versão/localizador conferidos; artigo não capturado = 🟡. Documentos privados por cliente/matéria fora do source; serviço externo somente com autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** a skill não substitui laudo/perito ou decisão judicial.
 
 Ao final, inclusive em saída bloqueada ou chamada direta, chamar nesta ordem `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4). Registrar achados, corrigir e repetir a cadeia; dependência indisponível impede liberar minuta dependente.

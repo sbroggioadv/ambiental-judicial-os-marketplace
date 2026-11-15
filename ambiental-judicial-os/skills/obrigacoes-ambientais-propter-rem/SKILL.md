@@ -26,6 +26,6 @@ Receber cliente/polo, via/fase, imóvel e objeto exato (APP, Reserva Legal ou ou
 
 Entregar matriz temporal `sujeito → título de domínio/posse → datas → obrigação legal delimitada → arquivo/trecho → cumprimento/contraprova → lacuna`, com posições de ambos os lados e pedido possível condicionado. Estado `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `FORA DO RECORTE` ou `MINUTA PARA REVISÃO HUMANA`, conforme o caso. Não certificar restauração, área ou custo sem medição e documento técnico reais.
 
-Guardar documentos na pasta privada por cliente/matéria, fora do source; nenhum envio externo de dados sem autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** os controles por instrução não são enforcement automático.
+Guardar documentos na pasta privada por cliente/matéria, fora do source; nenhum envio externo de dados sem autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** os controles por instrução não são enforcement automático.
 
 Ao final, inclusive para bloqueio e invocação direta, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4); corrigir achados e repetir a cadeia. Dependência indisponível impede liberar minuta: entregar matriz e pendências, registrando a revisão não realizada.

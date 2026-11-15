@@ -24,6 +24,6 @@ Identificar assistido/polo, via/fase, pretensão, alegações por fato, acesso e
 
 Entregar plano probatório ou pedido/resposta fundamentados, com colunas `alegação → prova/arquivo/trecho → encargo inicial → pedido/decisão efetiva → oportunidade → contraprova/lacuna → dispositivo/versão`. Indicar argumento adversário, providência e estado `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `BLOQUEADO` ou `MINUTA PARA REVISÃO HUMANA`. Sem decisão real, não escrever “ônus invertido”.
 
-Documentos ficam em pasta privada por cliente/matéria fora do source; não transmitir dados a serviços externos sem autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** revisão instrucional não certifica prova ou aprovação jurídica.
+Documentos ficam em pasta privada por cliente/matéria fora do source; não transmitir dados a serviços externos sem autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** revisão instrucional não certifica prova ou aprovação jurídica.
 
 Ao final, inclusive em saída bloqueada e invocação direta, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4). Incorporar achados e repetir a cadeia na versão corrigida. Dependência indisponível impede liberar minuta; registrar revisão não realizada e entregar só plano/pendências.

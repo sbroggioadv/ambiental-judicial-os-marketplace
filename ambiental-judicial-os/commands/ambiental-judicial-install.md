@@ -7,4 +7,4 @@ argument-hint: "[perfil, pasta privada e preferências]"
 
 Entrada: $ARGUMENTS
 
-Ler e executar `skills/ambiental-judicial-install/SKILL.md`. Confirmar pasta privada externa e acesso antes de qualquer gravação. Usar `AskUserQuestion` para listas fechadas com até quatro opções; texto livre digitado. Não solicitar dossiê nem presumir o polo de casos futuros. Informar exatamente o que foi salvo e orientar `/ambiental-judicial-master`. Suporte: luis@sbroggio.io.
+Ler e executar `skills/ambiental-judicial-install/SKILL.md`. Confirmar pasta privada externa e acesso antes de qualquer gravação. Usar `AskUserQuestion` para listas fechadas com até quatro opções; texto livre digitado. Não solicitar dossiê nem presumir o polo de casos futuros. Informar exatamente o que foi salvo e orientar `/ambiental-judicial-master`. Suporte: suporte@iapx.pro.

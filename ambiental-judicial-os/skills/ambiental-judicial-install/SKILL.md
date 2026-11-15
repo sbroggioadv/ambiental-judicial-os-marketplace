@@ -22,4 +22,4 @@ Resumir as escolhas e pedir confirmação **Confirmar**, **Corrigir** ou **Não 
 
 ## Primeiro uso
 
-Apresentar `/ambiental-judicial-master` com exemplo sem dados reais: “represento [polo] em [via/fase]; quero [objetivo]; tenho [documentos/decisão]”. O master perguntará legitimidade, representação e ato urgente, se pertinente. Suporte: luis@sbroggio.io. Instalação é operacional, sem parecer jurídico ou revisão de minuta. **Guidance only:** as instruções não provam configuração ou enforcement técnico.
+Apresentar `/ambiental-judicial-master` com exemplo sem dados reais: “represento [polo] em [via/fase]; quero [objetivo]; tenho [documentos/decisão]”. O master perguntará legitimidade, representação e ato urgente, se pertinente. Suporte: suporte@iapx.pro. Instalação é operacional, sem parecer jurídico ou revisão de minuta. **Guidance only:** as instruções não provam configuração ou enforcement técnico.

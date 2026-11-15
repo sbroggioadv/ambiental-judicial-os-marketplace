@@ -24,6 +24,6 @@ Aplicar `triagem-ambiental-judicial`: imóvel rural começa no `agrario-adv-os`.
 
 Entregar minuta de ajuste ou de pedido sujeita à revisão humana, ou análise do ato existente, com quadro `proposta → prova → poderes → fundamento/localizador → estado`. Registrar `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE` ou `BLOQUEADO`. Não produzir homologação fictícia.
 
-Norma só após leitura verbatim e conferência de versão em `context/`; artigo faltante = 🟡. Documentos por cliente/matéria em pasta privada externa e sem envio a serviço externo sem autorização específica. Suporte: luis@sbroggio.io. **Guidance only:** o plugin não celebra ou homologa acordo.
+Norma só após leitura verbatim e conferência de versão em `context/`; artigo faltante = 🟡. Documentos por cliente/matéria em pasta privada externa e sem envio a serviço externo sem autorização específica. Suporte: suporte@iapx.pro. **Guidance only:** o plugin não celebra ou homologa acordo.
 
 Ao final, inclusive em saída bloqueada ou chamada direta, chamar nesta ordem `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial` (R1→R4). Registrar achados, corrigir e repetir a cadeia; dependência indisponível impede liberar minuta dependente.

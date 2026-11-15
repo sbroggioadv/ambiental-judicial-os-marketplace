@@ -21,4 +21,4 @@ Leia `context/cpc-recursos-gerais.md`, arts. 994–1.008, especialmente 996/997/
 
 Entregue apelação/contrarrazões identificadas para revisão humana quando os gates passarem, ou `PENDENTE DE PROVA/FONTE` com próximo passo. Dados somente em pasta privada externa por cliente/matéria.
 
-Ao final, inclusive bloqueio, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial`, R1 sentença/prova, R2 fontes/efeitos, R3 ciência/calendário, R4 posição/via/sigilo. Controle ausente impede peça liberada. Guidance only. Suporte: luis@sbroggio.io.
+Ao final, inclusive bloqueio, chamar `anti-alucinacao-ambiental-judicial` → `validador-ambiental-judicial` → `suprema-corte-ambiental-judicial`, R1 sentença/prova, R2 fontes/efeitos, R3 ciência/calendário, R4 posição/via/sigilo. Controle ausente impede peça liberada. Guidance only. Suporte: suporte@iapx.pro.
